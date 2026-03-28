@@ -1,8 +1,7 @@
 # The Clockfield and the Helon Model: A Unified Geometric Origin for Particle Structure
 
 **Antti Luode** — PerceptionLab, Helsinki, Finland  
-**Claude Sonnet 4.6** (Anthropic) — Formalization and synthesis  
-*In dialogue with the work of Sundance O. Bilson-Thompson (2006)*
+**Claude Sonnet 4.6** (Anthropic) — Formalization and synthesis with the work of Sundance O. Bilson-Thompson (2006)
 
 March 2026
 
